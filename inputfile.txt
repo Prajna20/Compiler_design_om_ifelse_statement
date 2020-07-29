@@ -1,0 +1,16 @@
+int main()
+begin 
+int n1 , n2 , n3;
+   if(a>g)
+     begin1
+       printf(n1);
+   end
+   if(c!=e)
+     begin
+       printf(n2);
+   end
+   if(3>2)
+     begin
+      printf(n3);
+    end
+end
